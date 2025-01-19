@@ -30,7 +30,7 @@ https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb
 
 
 
-###🔹 Projet 3 : Reconnaissance de vêtements à partir d’images
+### 🔹 Projet 3 : Reconnaissance de vêtements à partir d’images
 Problématique : Utiliser des images en niveaux de gris représentant des vêtements pour construire un modèle capable de classifier ces articles (t-shirts, chaussures, sacs, etc.).
 Outils utilisés :
 
@@ -39,7 +39,8 @@ Outils utilisés :
 -Scikit-learn : Pré-traitement et évaluation initiale.
 -TensorFlow/Keras : Construction et entraînement d’un réseau de neurones convolutif (CNN).
 
+https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb
 
 
- 🚀 Remarque
+###  🚀 Remarque
 Ces projets, bien que classiques, offrent une excellente opportunité de se familiariser avec les concepts fondamentaux et les outils incontournables en data science. Ils témoignent de ma progression dans le domaine.
