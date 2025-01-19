@@ -18,7 +18,7 @@ https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/titanic_prediction
 
 
 
-###🔹 Projet 2 : Modélisation des prix de l'immobilier
+### 🔹 Projet 2 : Modélisation des prix de l'immobilier
 Problématique :Construire un modèle prédictif pour estimer les prix des maisons selon leurs caractéristiques comme la surface, le nombre de chambres, etc.  
 
 Outils utilisés :
@@ -26,7 +26,7 @@ Outils utilisés :
 - `numpy` : Manipulation mathématique.  
 - `scikit-learn` : Modèles supervisés (XGBoost , Random Forest) et métriques d'évaluation.  
 
-
+https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb
 
 
 
