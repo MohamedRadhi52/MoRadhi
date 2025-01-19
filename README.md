@@ -14,7 +14,7 @@ Outils utilisés :
 - `numpy` : Calculs mathématiques et gestion des matrices.  
 - `scikit-learn` : Modèles d'apprentissage supervisé (Random Forest).  
 
-
+https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/titanic_predictions.ipynb
 
 
 
