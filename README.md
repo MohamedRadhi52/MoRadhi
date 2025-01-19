@@ -22,11 +22,13 @@ https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/titanic_prediction
 Problématique :Construire un modèle prédictif pour estimer les prix des maisons selon leurs caractéristiques comme la surface, le nombre de chambres, etc.  
 
 Outils utilisés :
-- `pandas` : Pré-traitement et exploration des données.  
+- `pandas`: Pré-traitement et exploration des données.  
 - `numpy` : Manipulation mathématique.  
 - `scikit-learn` : Modèles supervisés (XGBoost , Random Forest) et métriques d'évaluation.  
 
-https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb
+[Git](https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb)
+
+
 
 
 
@@ -34,10 +36,10 @@ https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb
 Problématique : Utiliser des images en niveaux de gris représentant des vêtements pour construire un modèle capable de classifier ces articles (t-shirts, chaussures, sacs, etc.).
 Outils utilisés :
 
--pandas : Chargement et manipulation des données.
--NumPy : Manipulation de tableaux et traitement numérique.
--Scikit-learn : Pré-traitement et évaluation initiale.
--TensorFlow/Keras : Construction et entraînement d’un réseau de neurones convolutif (CNN).
+-`pandas` : Chargement et manipulation des données.
+-`NumPy` : Manipulation de tableaux et traitement numérique.
+-`Scikit-learn` : Pré-traitement et évaluation initiale.
+-`TensorFlow/Keras` : Construction et entraînement d’un réseau de neurones convolutif (CNN).
 
 https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb
 
