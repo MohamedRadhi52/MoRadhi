@@ -14,7 +14,7 @@ Outils utilisés :
 - `numpy` : Calculs mathématiques et gestion des matrices.  
 - `scikit-learn` : Modèles d'apprentissage supervisé (Random Forest).  
 
-https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/titanic_predictions.ipynb
+[Git](https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/titanic_predictions.ipynb)
 
 
 
@@ -41,7 +41,7 @@ Outils utilisés :
 -`Scikit-learn` : Pré-traitement et évaluation initiale.
 -`TensorFlow/Keras` : Construction et entraînement d’un réseau de neurones convolutif (CNN).
 
-https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb
+[Git](https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb)
 
 
 ###  🚀 Remarque
