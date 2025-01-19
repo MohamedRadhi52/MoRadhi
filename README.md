@@ -34,12 +34,12 @@ Outils utilisés :
 
 ### 🔹 Projet 3 : Reconnaissance de vêtements à partir d’images
 Problématique : Utiliser des images en niveaux de gris représentant des vêtements pour construire un modèle capable de classifier ces articles (t-shirts, chaussures, sacs, etc.).
-Outils utilisés :
 
--`pandas` : Chargement et manipulation des données.
--`NumPy` : Manipulation de tableaux et traitement numérique.
--`Scikit-learn` : Pré-traitement et évaluation initiale.
--`TensorFlow/Keras` : Construction et entraînement d’un réseau de neurones convolutif (CNN).
+Outils utilisés :
+- `pandas` : Chargement et manipulation des données.
+- `NumPy` : Manipulation de tableaux et traitement numérique.
+- `Scikit-learn` : Pré-traitement et évaluation initiale.
+- `TensorFlow/Keras` : Construction et entraînement d’un réseau de neurones convolutif (CNN).
 
 [Git](https://github.com/MohamedRadhi52/MoRadhi.github.io/blob/main/Houseprice.ipynb)
 
